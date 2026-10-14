@@ -40,7 +40,7 @@ clean:
 	rm -f *~ *.eps
 
 chalmers.pdf: chalmers.ms chalmers-01.ms $(OTHERS)
-language-function.pdf: 1-2.ms
+language-function.pdf: language-function.ms
 
 # Remember
 #
