@@ -185,31 +185,75 @@ Davies 2001
 Seminar 4
 .LP
 Can the notion of function be thought of in terms of 'design'?
-
+.LP
 What is the difference between an 'initial presence' and a 'maintenance' view of etiological functions?
-
+.QP
+.vs 12
+.ps 10
+Biological functions are dispositions or effects a trait has which explain the
+recent maintenance of the trait under natural selection. This is the "modem
+history" approach to functions. The approach is historical because to ascribe a
+function is to make a claim about the past, but the relevant past is the recent past
+.[
+Godfrey-Smith 1994
+.]
+.LP
 Does 'design' provide a way to unify other perspectives on function?
-
+.LP
 What distinguishes a 'recent history' view?
-
+.LP
 Are etiological functions and system functions notions which figure in different kinds of explanations?
-
+.LP
 Should we expect or aim for a unified theory of functions or accept pluralism about the notion?
 .[
 Kitcher 1993
-.]
-.[
-Godfrey-Smith 1994
 .]
 .NH 3
 Seminar 5
 .LP
 [In Millikan, the discussion on Gricean intentions is not of main importance for the course. Neither are the appendices of Ch. 4. For the Martinez paper, focus on the ideas of the argument and don't worry too much about the formalisms.]
-
+.LP
 What are stabilizing functions of language devices?
-
+.QP
+.vs 12
+.ps 10
+Given our speculations about the relation of specific speaker and hearer purposes to the stabilizing functions of language devices, we can easily construct an explicit theory concerning the general kinds of failure we should expect to find of language device tokens that do not perform their stabilizing functions.
+We will then be satisfied when these kinds of actual token performances do not fit our descriptions of the stabilizing functions of the indicative and imperative moods rather than casting about trying to fit these kinds in somewhere.
+Let us begin then by constructing such a theory.
+.QP
+.vs 12
+.ps 10
+Cases of language device tokens that do not perform their stabilizing functions should divide into the following four kinds:
+(1) cases in which the speaker purposes the stabilizing function but the hearer does not;
+(2) cases in which the hearer purposes the stabilizing function but the speaker does not;
+(3) cases in which neither the speaker nor the hearer purposes the stabilizing function;
+(4) cases in which both the speaker and the hearer purpose the stabilizing function but this function fails to be performed nonetheless.
+.[
+Millikan 1984
+.]
+.LP
+Case (2) is where lying belongs: the hearer purposes the stabilizing function (belief formation), but the speaker does not. That is Millikan’s counterpart to the cheating problem in Maynard Smith and Harper’s paper.
+.LP
 How do they relate to the 'literal use' of language devices?
-
+.QP
+.vs 12
+.ps 10
+Whether the use of a language device is literal or not depends upon the speaker’s purpose.
+It is not necessary however that the speaker should purpose that its stabilizing function actually be performed.
+For example, when a speaker uses the indicative mood in lying, he may speak literally but he does not purpose that it fulfill its stabilizing function of producing a true belief.
+And a speaker who uses an imperative intending that his hearer should try to comply but fail may still use that imperative literally.
+A literal use is a use that is intended to be taken literally.
+The literal speaker proposes that his hearer’s reaction should be to purpose, or that his hearer’s reaction should have as a proper function, the function that is the stabilizing function of the words the speaker utters.
+In literal use of the imperative the speaker purposes that the hearer form an intention that corresponds to (that has the same proper function as—see Chapter 8) the sentence he utters.
+In literal use of the indicative, the speaker purposes that the hearer correctly interpret and believe the sentence uttered, even though the speaker may know that this interpreting and believing will not result in performance of the full proper function of the indicative mood\[em]in the production of a
+.I true
+belief.
+.LP
+This passage also bears on the lying point from before.
+The liar speaks literally because he intends the utterance to be taken literally, that is, believed.
+He just doesn’t purpose that the full proper function, a true belief, gets performed.
+That is Millikan’s case (2 above) again, now with an account of why lying counts as literal use and not as a non-literal one.
+.LP
 What is the connection between a speaker's purpose of utterance and its function?
 
 How do functions relate to meaning on Millikan's view?
@@ -225,22 +269,67 @@ Martinez 2013
 Seminar 6
 .LP
 What sense of function is Sellars appealing to?
-
+.QP
+.vs 12
+.ps 10
+Just as micro-physical theories have typically made use of conceptually
+independent models at the perceptual level,
+so,
+I shall argue,
+the explanatory function of 'inner conceptual episodes' can be construed as resting upon an autonomous proto-psychologial framework in which linguistic activity is described,
+explained and evaluated without reference to the framework of 'mental acts' which it supports.
+With these qualifications,
+then,
+the enterprise in which I am engaged is the construction of a 'level 1 theory of meaning' in Harman's sense of this phrase.
+I shall refer to what he calls'thinking in words' as thinking-out-loud.
+On the assumption that such a proto-psychological framework can be isolated,
+I shall present it in the guise of a claim that thinking at the characteristically human level simply is what is described by this framework.
+I shall refer to this claim as Verbal Behaviorism.
+It is not intended to be an adequate account of thinking;
+it is,
+indeed,
+radically oversimplified.
+But I believe that it will provide a useful means of clarifying certain key issues in 'the philosophy of language.
+.LP
 How does Sellars view lend itself to avoiding
-
-What is an EMU and what theoretical work are they supposed to do?
-
-What sense of function is Williams discussing?
-
-Can inferential role be considered functionally?
-
-Is Williams sketching a view of how to relate two different senses of 'linguistic function' to each other?
+.QP
+.vs 12
+.ps 10
+It should be stressed that the uniformities involved in meaningful
+verbal behavior include
+.I negative
+uniformities, i.e. the avoidance of certain combinations, as well as
+.I positive
+uniformities, i.e. uniformities of concomitance.
+Indeed, negative uniformities play by far the more important role,
+and the rules which govern them are to be construed as constraints rather than incentives.
 .[
 Sellars 1973
 .]
+.LP
+What is an EMU and what theoretical work are they supposed to do?
+.QP
+.vs 12
+.ps 10
+To see whether pragmatism can accommodate expressivist insights, we have
+to ask what is involved in giving an explanation of meaning in terms of use
+(an EMU).
 .[
 Williams 2013
 .]
+.LP
+What sense of function is Williams discussing?
+.QP
+.vs 12
+.ps 10
+All vocabularies\[em]semantic vocabulary included\[em]are to be characterized (or explained) functionally,
+in terms of their use properties.
+Oversimplifying a bit,
+meaning does not explain use: use explains meaning.
+.LP
+Can inferential role be considered functionally?
+.LP
+Is Williams sketching a view of how to relate two different senses of 'linguistic function' to each other?
 .NH 3 
 Seminar 7
 .LP
@@ -291,13 +380,16 @@ How does communicative function relate to conversational score?
 
 Are Murray and Starr using the same notion of function as Millikan? Does this generate a distinct kind of functionalism?
 .[
-Millikan 2005
+Millikan  Language Conventions Made Simple
+.]
+.[
+Millikan Function and Convention in Speech Acts 2005
 .]
 .[
 Force and Conversational States
 .]
 .NH 3
- Seminar 10
+Seminar 10
 .LP
 Each of the readings suggests an analysis of a particular speech-act in terms of its function. In what sense of function are they best understood?
 
