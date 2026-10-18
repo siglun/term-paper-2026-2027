@@ -52,19 +52,29 @@ The short version: both traditions start from Hempel's verdict that functional a
 .NH 4
 Hempel's problem
 .LP
-In "The Logic of Functional Analysis" (1959), Hempel asks whether "the heart beats in order to circulate the blood" can be turned into a deductive-nomological explanation of why organisms have hearts. The natural reconstruction is:
-
-1. System *s* functions adequately in setting *c*.
-2. *s* functions adequately only if condition *n* (circulation) is met.
-3. If trait *i* (a heart) were present, *n* would be met.
-4. Therefore *i* is present.
-
-That is affirming the consequent. To make it valid, premise 3 would have to say that *i* is *necessary* for *n*. But there are functional equivalents: other circulatory arrangements, an artificial heart. So the most you can validly derive is that some member of a class of functional equivalents is present. Functional analysis therefore has heuristic value but no explanatory force for the item itself.
-
+In \f[I]The Logic of Functional Analysis\f[P] (1959),
+Hempel asks whether \[oq]the heart beats in order to circulate the blood\[cq] can be turned into a deductive-nomological explanation of why organisms have hearts.
+The natural reconstruction is:
+.IP 1.
+System $s$ functions adequately in setting $c$.
+.IP 2.
+$s$ functions adequately only if condition $n$ (circulation) is met.
+.IP 3.
+If trait $i$ (a heart) were present, $n$ would be met.
+.IP 4.
+Therefore $i$ is present.
+.LP
+That is affirming the consequent. To make it valid, premise 3 would have to say that $i$ is
+.I necessary
+for $n$. But there are functional equivalents: other circulatory arrangements, an artificial heart.
+So the most you can validly derive is that some member of a class of functional equivalents is present.
+Functional analysis therefore has heuristic value but no explanatory force for the item itself.
+.LP
 Two features of Hempel's framing matter for what follows:
-- The explanandum is assumed to be the presence of the item.
-- Explanation is assumed to mean subsumption of the explanandum under laws.
-
+.IP -
+The explanandum is assumed to be the presence of the item.
+.IP -
+Explanation is assumed to mean subsumption of the explanandum under laws.
 .NH 4
 Cummins: functional explanation (causal role)
 .LP
@@ -100,7 +110,7 @@ How each breaks with Hempel
 .TS
 allbox center tab(;);
 lb lb lb ;
-lp10 lp10 lp10 .
+lp10v12 lp10v12 lp10v12 .
 .ps 10
 .vs 12
 ;Cummins;Wright / Millikan
