@@ -65,12 +65,13 @@ If trait $i$ (a heart) were present, $n$ would be met.
 Therefore $i$ is present.
 .LP
 That is affirming the consequent.
-.MN right
-\s[+24]\[u261C]\s[-24]
-.MN
 To make it valid, premise 3 would have to say that $i$ is
 .I necessary
-for $n$. But there are functional equivalents: other circulatory arrangements, an artificial heart.
+for $n$.
+.MN left
+\s[+24]\[u261E]\s[-24]
+.MN
+But there are functional equivalents: other circulatory arrangements, an artificial heart.
 So the most you can validly derive is that some member of a class of functional equivalents is present.
 Functional analysis therefore has heuristic value but no explanatory force for the item itself.
 .LP
