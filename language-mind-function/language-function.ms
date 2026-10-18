@@ -64,7 +64,11 @@ If trait $i$ (a heart) were present, $n$ would be met.
 .IP 4.
 Therefore $i$ is present.
 .LP
-That is affirming the consequent. To make it valid, premise 3 would have to say that $i$ is
+That is affirming the consequent.
+.MN right
+\s[+24]\[u261C]\s[-24]
+.MN
+To make it valid, premise 3 would have to say that $i$ is
 .I necessary
 for $n$. But there are functional equivalents: other circulatory arrangements, an artificial heart.
 So the most you can validly derive is that some member of a class of functional equivalents is present.
