@@ -109,6 +109,27 @@ The approach also earns normativity. A defective heart still has the proper func
 
 Millikan's answer to the second is that she is giving a theoretical definition, not an analysis of what speakers mean by "function".
 
+.TS
+allbox center tab(;);
+lp10v12 lp10v12 lp10v12 lp10v12.
+T{
+Direct Proper functions
+T};Relational:;T{
+Supposed to produce a specific relation to something else
+T}
+;Adapted;T{
+Relational with respect to some feature of the environment
+T};T{
+Output adapted devices
+T}
+T{
+Derived proper function
+T}
+;;T{
+Functions which something has as a result of being produced as an adapted device
+T}
+.TE
+
 .NH 4
 How each breaks with Hempel
 .LP
