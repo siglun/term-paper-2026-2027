@@ -129,7 +129,7 @@ T}
 Functions which something has as a result of being produced as an adapted device
 T}
 .TE
-.PS 5c 8c
+.PS 5c 14c
 .ps 9
 .vs 11
 scale=2.54
