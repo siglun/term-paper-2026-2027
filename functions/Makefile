@@ -9,7 +9,8 @@ endif
 .SUFFIXES: .pic .ms .pdf .ps .eps 
 .DEFAULT: .ms.pdf .ps.pdf .eps.pdf
 
-default: chalmers.pdf language-function.pdf
+# default: chalmers.pdf language-function.pdf
+default: language.pdf
 
 BIB := ../bib
 
@@ -39,8 +40,10 @@ OTHERS =  ../bib/bibliography.i ../tmac/dropcap.tmac ../tmac/mn.tmac \
 clean:
 	rm -f *~ *.eps
 
-chalmers.pdf: chalmers.ms chalmers-01.ms $(OTHERS)
-language-function.pdf: language-function.ms
+# chalmers.pdf: chalmers.ms chalmers-01.ms $(OTHERS)
+# language-function.pdf: language-function.ms
+
+language.pdf: language.ms
 
 # Remember
 #
