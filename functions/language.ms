@@ -11,7 +11,7 @@ Sigfrid Lundberg
 I at least try to write my paper before I write my abstract,
 because I hardly ever know what to summarize before I've written it.
 This in itself is most likey to be seen as a shortcoming,
-but I don't care about that.
+but be that as it may.
 .AE
 .so ../margin-notes.ms
 .MNinit symmetric 3c 4c 1n BrillR 8z 9.6p black ""
