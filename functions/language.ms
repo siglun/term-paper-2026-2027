@@ -18,4 +18,11 @@ but be that as it may.
 .SH
 Introduction
 .LP
-Blah blah blah blah
+If we are to believe Amie L. Thommasson,
+then many ontological and metaphysical theories have passed their best-before dates.
+Her arguments are that current ontology is far too complex
+
+
+.ig
+"En sökning i ordforskningsplattformen Korp (Borin et al., 2025) gjordes den 26 oktober 2026 på sökfrågan [lemma = "kalla handen"] i delkorpusen Moderna tidningstexter. Sökningen resulterade i..."
+..
