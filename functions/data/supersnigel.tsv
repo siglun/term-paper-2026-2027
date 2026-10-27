@@ -1,0 +1,18 @@
+corpus	match_position	left_context	match	right_context	text_sectionshort	text_date	text_id	paragraph_type	text_swefn	text_data_collected	text_tags	text_section	text_authors	text_url	text_title	text_nk	text_subtitle	text_ovix	text_lix	text_newspaper
+GP 2003	15486863	Det blir en	supersnigel	, som dessutom är fertil , vilket hybrider inte brukar vara .	GPALL	2003-07-10
+GP 2004	7388713	Ett annat färskare hot mot blommor och trädgårdsland är den	supersnigel	som har uppstått genom att den spanska skogssnigeln , kallad mördarsnigel , har parat sig med den svarta svenska skogssnigeln .	GPALL	2004-05-12
+GP 2005	16093411	Kallar hybriden för supersnigeln Hagnell kallar hybriden för en	supersnigel	som kombinerar mördarsnigelns glupskhet och snabbförökande egenskaper med den svarta skogssnigelns förmåga att klara sig i det svenska klimatet .	GPFRI	2005-06-22
+GP 2005	16111821	En	supersnigel	.	GPFRI	2005-06-22
+SVT nyheter 2005	447165	En ny	supersnigel	, med den svarta skogssnigelns övervintringsegenskaper och mördarsnigelns glupskhet , hotar de svenska trädgårdslanden , skriver DN .		2005-06-26T22:43:00+02:00	865684	lead	|Proliferating_in_number:382.256|Sex:237.709|Rotting:101.256|	2022-03-07		Inrikes		https://www.svt.se/nyheter/inrikes/ny-snigelhybrid-hotar-gronsakslanden	Ny snigelhybrid hotar grönsakslanden	1.50		110.46	48.50
+Webbnyheter 2005	8608319	En ny	supersnigel	hotar svenska trädgårdar .		2005-06-23 05:30:00			|Progress:222.228|Research:168.486|Traversing:115.496|					http://www.svd.se/nyheter/inrikes/artikel_432957.svd	Supersnigel hotar trädgårdar	1.71		93.78	54.99	Svenska Dagbladet
+Webbnyheter 2005	8632504	En ny	supersnigel	hotar svenska trädgårdar .		2005-06-23 05:30:00			|Progress:222.228|Research:168.486|Traversing:115.496|					http://www.svd.se/nyheter/inrikes/artikel_432927.svd	Supersnigel hotar trädgårdar	1.71		93.78	54.99	Svenska Dagbladet
+Webbnyheter 2005	25259412	Forskare misstänker att en ny mördarsnigel , en	supersnigel	, håller på att utvecklas i de svenska trädgårdarna .		2005-06-22 06:12:00			|Adjusting:186.131|Progress:156.383|Popularity:142.468|					http://www.dn.se/nyheter/sverige/supersnigeln-invaderar-svenska-tradgardar/	Supersnigeln invaderar svenska trädgårdar	1.41		72.48	64.29	Dagens Nyheter
+Webbnyheter 2005	25446384	Forskare misstänker att en ny mördarsnigel , en	supersnigel	, håller på att utvecklas i de svenska trädgårdarna.Det är zoologen Jan Hagnell , som under tre års tid forskat kring den spanska skogssnigeln , populärt kallad mördarsnigeln , och hur den ska stoppas , som för fram tanken.Den spanska snigeln etablerade sig i Sverige i slutet av 80-talet och de vanliga svarta sniglarna fick maka på sig .		2005-06-22 02:10:00			|Adjusting:236.496|Progress:198.698|Popularity:181.018|					http://www.dn.se/diverse/p8-import-slask-undantag/supersnigeln-invaderar-svenska-tradgardar/	Supersnigeln invaderar svenska trädgårdar	1.55		73.01	74.86	Dagens Nyheter
+																				
+"## CQP query: [word = ""supersnigel""]"																				
+## context: 1 sentence																				
+## within: sentence																				
+## sorting: none																				
+## start: 0																				
+## end: 99																				
+## Total hits: 9																				
