@@ -22,11 +22,11 @@ while(my $line = <>) {
 	    $year = $&;
 	}
     } elsif($data[0] =~ m/GP/) {
-	if( $data[6] =~ m/(\d\d\d\d)/ ) {
+	if( $data[0] =~ m/(\d\d\d\d)/ ) {
 	    $year = $&;
 	}
     } elsif($data[0] =~ m/SVT/) {
-	if( $data[9] =~ m/(\d\d\d\d)/ ) {
+	if( $data[0] =~ m/(\d\d\d\d)/ ) {
 	    $year = $&;
 	}
     } elsif($data[0] =~ m/Svensk Twitter/) {
@@ -38,14 +38,19 @@ while(my $line = <>) {
 	    $year = $&;
 	}
     } elsif($data[0] =~ m/Webbnyheter/) {
-	if( $data[9] =~ m/(\d\d\d\d)/ ) {
+	if( $data[0] =~ m/(\d\d\d\d)/ ) {
 	    $year = $&;
 	}
     } elsif($data[0] =~ m/Wikipedia/) {
 	if( $data[7] =~ m/(\d\d\d\d)/ ) {
 	    $year = $&;
 	}
+    }  elsif($data[0] =~ m/8 Sidor/) {
+	if( $data[10] =~ m/(\d\d\d\d)/ ) {
+	    $year = $&;
+	}
     }
+
 
     
     if($year <= 1) {
