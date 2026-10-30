@@ -42,3 +42,33 @@ copy "data/search-interest-danish-draebersnegle.tsv" thru {
 }
 .G2
 .KE
+.KF
+.G1
+frame  invis ht 7 wid 9 left solid bot solid
+coord x 0,366 y 0.0,100
+label bot "Day" down 1
+label left "Search interest" left 1.2
+
+draw umeta bullet color "blue"
+draw meta bullet color "black"
+draw dmeta bullet color "red"
+
+copy "data/search-interest-uk-killer-slug.tsv" thru {
+     if "$1" != "#" then {
+        next umeta at $3,$4
+     }
+}
+
+copy "data/search-interest-swedish-moerdarsnigel.tsv" thru {
+     if "$1" != "#" then {
+        next meta at $3,$4
+     }
+}
+
+copy "data/search-interest-danish-draebersnegle.tsv" thru {
+     if "$1" != "#" then {
+        next dmeta at $3,$4
+     }
+}
+.G2
+.KE
