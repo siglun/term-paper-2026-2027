@@ -39,3 +39,4 @@ should be replaced with one that don't list existing things but investigate thei
 .ig
 "En sökning i ordforskningsplattformen Korp (Borin et al., 2025) gjordes den 26 oktober 2026 på sökfrågan [lemma = "kalla handen"] i delkorpusen Moderna tidningstexter. Sökningen resulterade i..."
 ..
+.so slug-texts.ms
