@@ -102,3 +102,31 @@ copy "data/search-interest-danish-draebersnegle-normalized.tsv" thru {
 }
 .G2
 .KE
+.KF
+.G1
+frame  invis ht 7 wid 9 left solid bot solid
+coord x 2003,2027 y 100,200
+label bot "Year" down 1
+label left "Mean day of searches" left 1.2
+
+draw umeta solid color "blue"
+draw meta solid color "black"
+draw dmeta solid color "red"
+
+copy "data/mean-search-day-uk.tsv" thru {
+     if "$1" != "#" then {
+        next umeta at $1,$2
+     }
+}
+copy "data/mean-search-day-se.tsv" thru {
+     if "$1" != "#" then {
+        next meta at $1,$2
+     }
+}
+copy "data/mean-search-day-dk.tsv" thru {
+     if "$1" != "#" then {
+        next dmeta at $1,$2
+     }
+}
+.G2
+.KE
