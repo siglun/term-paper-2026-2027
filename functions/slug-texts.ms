@@ -130,3 +130,19 @@ copy "data/mean-search-day-dk.tsv" thru {
 }
 .G2
 .KE
+.KF
+.G1
+frame  invis ht 7 wid 9 left solid bot solid
+size=7
+coord x 500, 700 y 140, 200
+
+label left "Mean day of searches" left 1.2
+label bot "Mean preciptation (mm)" down 1
+
+draw bul bullet color "black"
+
+copy "data/correlation-search-rain.tsv" thru {
+      next bul at $2,$3
+}
+.G2
+.KE
