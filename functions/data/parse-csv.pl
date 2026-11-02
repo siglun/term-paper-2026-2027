@@ -59,7 +59,7 @@ while(my $line = <>) {
 	}
     }
 
-    print $data[0] . "\n";
+#    print $data[0] . "--";
     print "$data[2] -- $data[3] --  $data[4] -- $year\n";
 
 }

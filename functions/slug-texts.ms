@@ -2,14 +2,14 @@
 .G1
 frame  invis ht 7 wid 9 left solid bot solid
 size=7
-barwid=0.2
+barwid=0.3
 capwid=0.15
-coord x 1990, 2030 y 0, 30
+coord x 1990, 2030 y 0, 15
 copy "data/korp-mordersnigel.text" thru {
-	bar up $2 ht $1 wid barwid fillcolor "mistyrose1"	
+	bar up $2-0.15 ht $1 wid barwid fillcolor "mistyrose1"	
 }
 copy "data/korp-supersnigel.text" thru {
-	bar up $2+0.2 ht $1 wid barwid fillcolor "lightblue"
+	bar up $2+0.15 ht $1 wid barwid fillcolor "lightblue"
 }
 .G2
 .KE
@@ -77,7 +77,7 @@ copy "data/search-interest-danish-draebersnegle.tsv" thru {
 frame  invis ht 7 wid 9 left solid bot solid
 coord x 0,366 y 0.0,1
 label bot "Day" down 1
-label left "Search interest" left 1.2
+label left "Normalized search interest" left 1.2
 
 draw umeta bullet color "blue"
 draw meta bullet color "black"
