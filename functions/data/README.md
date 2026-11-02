@@ -67,6 +67,10 @@ The same kind of data were retrieved for Denmark and the UK. The data are in the
 * [mean-precipitation-sweden.csv](mean-precipitation-sweden.csv)
 * [mean-precipitation-uk.csv](mean-precipitation-uk.csv)
 
+The script [mean-precipitation.pl](mean-precipitation.pl) Take one of those, for instance [mean-preciptation-sweden.csv](mean-preciptation-sweden.csv) and combines it with a file with "search interest days" ([mean-search-day-se.tsv](mean-search-day-se.tsv)  cf the  [mean-day.pl](mean-day.pl) script) to create the combined [correlation-search-rain.tsv](correlation-search-rain.tsv)
 
+**Warning** Those files are hardcoded into the script:
 
-mean-preciptation.pl
+   my $normalized = "mean-search-day-se.tsv";
+   my $rain       = "mean-preciptation-sweden.csv";
+
