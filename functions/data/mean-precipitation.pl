@@ -7,10 +7,10 @@ my %interests;
 my %prod;
 
 my $normalized = "mean-search-day-se.tsv";
-my $rain       = "mean-preciptation-sweden.csv";
+my $rain       = "mean-precipitation-sweden.csv";
 
-open(NORM,"<$normalized");
-open(RAIN,"<$rain");
+open(NORM,"<$normalized") or die "$normalized: $!";
+open(RAIN,"<$rain") or die "$rain: $!";
 
 my %rain_by_year;
 my %search_day;
@@ -22,7 +22,9 @@ my $sigmaXY=0;
 
 while(my $line = <RAIN>) {
     my $year; my $mm; my $therest;
+    $line =~ s/^\xEF\xBB\xBF//;   # byte order mark in the World Bank files
     next if $line =~ m/^#/;
+    next if $line =~ m/^"/;      # header line without a leading #
     ($year, $mm, $therest) = split /,/, $line;
     next if $year < 2000;
     $year =~ m/^\s*(\d\d\d\d)/;
@@ -45,6 +47,8 @@ close(NORM);
 my @years = sort(keys(%search_day));
 
 foreach my $year (@years) {
+
+    next unless defined $rain_by_year{$year};   # e.g. the current year
 
     print $year . "\t" .
 	$rain_by_year{$year} . "\t" .
