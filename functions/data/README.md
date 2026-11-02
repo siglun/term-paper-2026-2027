@@ -50,15 +50,23 @@ The data were uploaded to [claud.ai](https://claude.ai/) who transformed them us
 * [search-interest-swedish-moerdarsnigel.tsv](search-interest-swedish-moerdarsnigel.tsv)
 * [search-interest-uk-killer-slug.tsv](search-interest-uk-killer-slug.tsv)
 
+### other scripts
 
-mean-day.pl
-normalize-within-years.pl
+* [mean-day.pl](mean-day.pl)
+* [normalize-within-years.pl](normalize-within-years.pl)
 
 ### Precipitation
 
 Data were retrieved from the *World Bank Group Climate Change Knowledge Portal* 
 
 https://climateknowledgeportal.worldbank.org/country/sweden/climate-data-historical
+
+The same kind of data were retrieved for Denmark and the UK. The data are in the files
+
+* [mean-precipitation-denmark.csv](mean-precipitation-denmark.csv) 
+* [mean-precipitation-sweden.csv](mean-precipitation-sweden.csv)
+* [mean-precipitation-uk.csv](mean-precipitation-uk.csv)
+
 
 
 mean-preciptation.pl
