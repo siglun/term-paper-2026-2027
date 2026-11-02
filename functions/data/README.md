@@ -32,7 +32,7 @@ The data were uploaded to [claud.ai](https://claude.ai/) who transformed them us
 
  Make it as tsv (tab seperated values) The format will be
 
- Date	   Time (real number)	Day number (in year)	Search interest
+| Date	|   Time (real number) |Day number (in year)n |	Search interest |
 
  Then we'll do the same for Denmark Dræbersnegl and UK Killer slug
 
