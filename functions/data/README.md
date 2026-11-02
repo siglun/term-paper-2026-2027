@@ -36,20 +36,29 @@ The data were uploaded to [claud.ai](https://claude.ai/) who transformed them us
 
  Then we'll do the same for Denmark Dræbersnegl and UK Killer slug
 
-What Claude did:
+### Claude responded:
 
  Here’s the mördarsnigel data as TSV in search-interest-swedish-moerdarsnigel.tsv. It has 274 monthly rows from 2004-01 to 2026-10.
 
  Time (real number): year + (day − 1) / days in that year. So 1 January is exactly 2004.0000, and leap years divide by 366. Values are given to 4 decimals. Day number: day 1–366. Because 2004, 2008 and the other leap years have 29 February, every month from March onward falls one day later in those years. For example, 1 July is day 183 in 2024 but day 182 in 2025.
 
  The conversion script is reusable, so when you upload the Danish dræbersnegl and UK killer slug CSVs I’ll run them through the same script.
+ 
+### The results are in 
 
-* search-interest-danish-draebersnegle.tsv
-* search-interest-swedish-moerdarsnigel.tsv
-* search-interest-uk-killer-slug.tsv
+* [search-interest-danish-draebersnegle.tsv](search-interest-danish-draebersnegle.tsv)
+* [search-interest-swedish-moerdarsnigel.tsv](search-interest-swedish-moerdarsnigel.tsv)
+* [search-interest-uk-killer-slug.tsv](search-interest-uk-killer-slug.tsv)
 
 
 mean-day.pl
-mean-preciptation.pl
 normalize-within-years.pl
 
+### Precipitation
+
+Data were retrieved from the *World Bank Group Climate Change Knowledge Portal* 
+
+https://climateknowledgeportal.worldbank.org/country/sweden/climate-data-historical
+
+
+mean-preciptation.pl
