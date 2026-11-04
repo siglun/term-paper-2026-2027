@@ -31,12 +31,16 @@ Thomasson 2026
 and that it therefore must be made
 .I functional
 again.
-By functional she does not mean that someone should repair metaphysics but that the old quinean ontology
+By functional she does not mean that someone should repair metaphysics but that the old quinean ontology.
+What Quine actually wrote is
+.QP
+.vs 12
+.ps 10
+a theory is [ontologically] committed to those and only those entities to which the bound variables of the theory must be capable of referring in order that the affirmations made in the theory be true.
 .[
 Quine what there is
 .]
+.LP
 should be replaced with one that don't list existing things but investigate their functions.
-.ig
-"En sökning i ordforskningsplattformen Korp (Borin et al., 2025) gjordes den 26 oktober 2026 på sökfrågan [lemma = "kalla handen"] i delkorpusen Moderna tidningstexter. Sökningen resulterade i..."
-..
-.so slug-texts.ms
+.\" so proper-functions.ms
+.\" so slug-texts.ms

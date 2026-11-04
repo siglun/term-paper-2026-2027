@@ -1,5 +1,8 @@
+# Functions
 
-# Philosophies of language and mind
+
+
+## Philosophies of language and mind
 
 * Saul, J.M.: Lying, Misleading, and What is Said: An Exploration in Philosophy of Language and in Ethics (Amazon)
 * Chalmers: The Conscious Mind (128.2 Chalmers)
