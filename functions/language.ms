@@ -20,7 +20,7 @@ Introduction
 .LP
 If we are to believe Amie L. Thomasson,
 then many ontological and metaphysical theories have passed their best-before dates.
-Her arguments are that current ontology is far too complex
+Her arguments are that current ontologies is far too complex
 .[
 Thomasson easy
 .]
@@ -31,7 +31,9 @@ Thomasson 2026
 and that it therefore must be made
 .I functional
 again.
-By functional she does not mean that someone should repair metaphysics but that the old quinean ontology.
+By functional she does not mean that someone should repair metaphysics but that the old quinean ontologies should be retired.
+In metaphysics entities should be studied based on their functions.
+Not their properties. 
 What Quine actually wrote is
 .QP
 .vs 12
@@ -41,6 +43,6 @@ a theory is [ontologically] committed to those and only those entities to which 
 Quine what there is
 .]
 .LP
-should be replaced with one that don't list existing things but investigate their functions.
+Another way to think of this would be to choose ones study objects based on whether they are amenable to first order logic.
 .\" so proper-functions.ms
 .\" so slug-texts.ms
