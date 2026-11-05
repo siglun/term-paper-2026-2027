@@ -15,8 +15,7 @@ but be that as it may.
 .AE
 .so ../margin-notes.ms
 .MNinit symmetric 3c 4c 1n BrillR 8z 9.6p black ""
-.SH
-Introduction
+.section
 .LP
 If we are to believe Amie L. Thomasson,
 then many ontological and metaphysical theories have passed their best-before dates.
@@ -44,11 +43,19 @@ Quine what there is
 .]
 .LP
 Another way to think of this would be to choose ones study objects based on whether they are amenable to first order logic.
+.PP
 Following Quine's seminal paper,
 philosophers started to interest themselves in metaphysical issues after the low-water mark after the onslaught of the Vienna school and the positivists.
 During the following renaissance metaphysicians studied explanatory power of entities and concepts, their structures, truthmakers and fundamentality and grounding.
 .[
 Thomasson Rethinking
 .]
+.PP
+It would be to go far beyond the scope of this text to review those various metaphysical disciplines;
+rather we go directly to Thomasson's preferred road forward,
+which is the functional approach strengthened with conceptual engineering.
+.[ (
+Thomasson Rethinking
+.], p. 103\[en]131)
 .\" so proper-functions.ms
 .\" so slug-texts.ms
