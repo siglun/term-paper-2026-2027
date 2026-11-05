@@ -44,5 +44,11 @@ Quine what there is
 .]
 .LP
 Another way to think of this would be to choose ones study objects based on whether they are amenable to first order logic.
+Following Quine's seminal paper,
+philosophers started to interest themselves in metaphysical issues after the low-water mark after the onslaught of the Vienna school and the positivists.
+During the following renaissance metaphysicians studied explanatory power of entities and concepts, their structures, truthmakers and fundamentality and grounding.
+.[
+Thomasson Rethinking
+.]
 .\" so proper-functions.ms
 .\" so slug-texts.ms
