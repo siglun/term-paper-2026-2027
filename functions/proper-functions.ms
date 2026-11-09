@@ -1,3 +1,4 @@
+.KF
 .PS 5c 14c
 .ps 9
 .vs 11
@@ -21,3 +22,13 @@ line dashed from A.e to (Der.x, A.y)
 arrow dashed to Der.s
 "adapted devices have" "derived functions" at (A.e.x + Der.x)/2, A.y + 0.25
 .PE
+.QP
+.vs 12
+.ps 10
+Figure 1. A taxonomy of different forms of functions accoring to.
+.[
+Millikan  language thought 
+.]
+A proper function can be either direct or derived.
+.sp
+.KE
