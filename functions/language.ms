@@ -79,5 +79,7 @@ molluscs have a body fluid called \f[I]haemolymph\f[P] which belongs to the same
 .[
 hemolymph molluscan
 .]
-Together with a two chamber heart haemolymph is distributing oxygene and nutrients through the body of any slug.
-.\" so slug-texts.ms
+Together with a two chamber heart haemolymph is distributing oxygene and nutrients through the body of any slug,
+that is its circulatory system.
+.section
+.so slug-texts.ms
