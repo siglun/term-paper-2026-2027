@@ -60,6 +60,7 @@ foreach my $year (@years) {
     $sigmaXsquare +=  $rain_by_year{$year} ** 2;
     $sigmaY += $search_day{$year};
     $sigmaXY += $rain_by_year{$year} * $search_day{$year};
+    $sigmaYsquare += $search_day{$year} ** 2;
     
 }
 
