@@ -46,6 +46,8 @@ close(NORM);
 
 my @years = sort(keys(%search_day));
 
+my $N = $#years;
+
 foreach my $year (@years) {
 
     next unless defined $rain_by_year{$year};   # e.g. the current year
@@ -54,4 +56,20 @@ foreach my $year (@years) {
 	$rain_by_year{$year} . "\t" .
 	$search_day{$year} . "\n";
 
+    $sigmaX += $rain_by_year{$year};
+    $sigmaXsquare +=  $rain_by_year{$year} ** 2;
+    $sigmaY += $search_day{$year};
+    $sigmaXY += $rain_by_year{$year} * $search_day{$year};
+    
 }
+
+my $intercept = ($sigmaY * $sigmaXsquare - $sigmaX * $sigmaXY)/($N * $sigmaXsquare - $sigmaX**2);
+
+# print $intercept . "\n";
+
+my $slope  = ( $N * $sigmaXY - $sigmaX * $sigmaY)/($N * $sigmaXsquare - $sigmaX**2);
+
+# print $slope . "\n";
+
+print STDERR "Intercept\t" .  $intercept          . "\n";
+print STDERR "Slope\t"   . $slope . "\n";

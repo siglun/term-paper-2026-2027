@@ -139,6 +139,9 @@ coord x 500, 700 y 140, 200
 label left "Mean day of searches" left 1.2
 label bot "Mean preciptation (mm)" down 1
 
+# Intercept	65.0941320177774
+# Slope	0.166083903863906
+
 draw bul bullet color "black"
 
 copy "data/correlation-search-rain.tsv" thru {
@@ -148,6 +151,13 @@ copy "data/correlation-search-rain.tsv" thru {
        "\s[-6]$1  \[bu]\s[+6]" rjust at $2,$3
      }
 }
+
+draw solid
+copy until "END" thru {next at $1, 65.09 + 0.1661*$1;}
+510
+700
+END
+
 .G2
 .KE
 .LP
