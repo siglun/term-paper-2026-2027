@@ -159,6 +159,32 @@ copy until "END" thru {next at $1, 65.09 + 0.1661*$1;}
 END
 
 .G2
+.G1
+frame  invis ht 7 wid 9 left solid bot solid
+size=7
+coord x 1, 5 y 140, 200
+
+label left "Mean day of searches" left 1.2
+label bot "Mean temperature (\[de]C)" down 1
+
+# Intercept	65.0941320177774
+# Slope	0.166083903863906
+
+draw bul bullet color "black"
+
+copy "data/correlation-search-temperature.tsv" thru {
+     "\s[-6]\[bu]  $1\s[+6]" ljust at $2,$3
+}
+
+draw solid
+copy until "END" thru {next at $1, 178.34 - 1.3208*$1;}
+1.1
+5
+END
+
+.G2
+
+
 .KE
 .LP
 having a cryoprotectant in ones body tissue is similar to have antifreeze in ones coolant

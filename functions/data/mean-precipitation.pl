@@ -46,12 +46,12 @@ close(NORM);
 
 my @years = sort(keys(%search_day));
 
-my $N = $#years;
+my $N=0;
 
 foreach my $year (@years) {
 
     next unless defined $rain_by_year{$year};   # e.g. the current year
-
+    $N++;
     print $year . "\t" .
 	$rain_by_year{$year} . "\t" .
 	$search_day{$year} . "\n";
