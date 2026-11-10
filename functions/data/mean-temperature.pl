@@ -1,6 +1,7 @@
 #!/usr/bin/perl -w
 
 use strict;
+use Statistics::Distributions;
 
 my @file=();
 my %interests;
@@ -19,6 +20,7 @@ my $sigmaX=0;
 my $sigmaXsquare=0;
 my $sigmaY=0;
 my $sigmaXY=0;
+my $sigmaYsquare=0;
 
 while(my $line = <RAIN>) {
     my $year; my $mm; my $therest;
@@ -66,11 +68,18 @@ foreach my $year (@years) {
 
 my $intercept = ($sigmaY * $sigmaXsquare - $sigmaX * $sigmaXY)/($N * $sigmaXsquare - $sigmaX**2);
 
-# print $intercept . "\n";
-
 my $slope  = ( $N * $sigmaXY - $sigmaX * $sigmaY)/($N * $sigmaXsquare - $sigmaX**2);
 
-# print $slope . "\n";
+my $r = ($N * $sigmaXY - $sigmaX * $sigmaY) /
+        sqrt(($N * $sigmaXsquare - $sigmaX**2) * ($N * $sigmaYsquare - $sigmaY**2));
+
+my $t = $r * sqrt(($N - 2) / (1 - $r**2));
+my $p = 2 * Statistics::Distributions::tprob($N - 2, abs($t)); 
+
+print STDERR "Regression etc \n";
 
 print STDERR "Intercept\t" .  $intercept          . "\n";
 print STDERR "Slope\t"   . $slope . "\n";
+print STDERR "r=" . $r;
+print STDERR "t=" . $t . " ";
+print STDERR "p=" . $p . " (two tailed)\n";
