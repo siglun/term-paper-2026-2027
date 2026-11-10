@@ -55,13 +55,13 @@ draw dmeta bullet color "red"
 
 copy "data/search-interest-uk-killer-slug.tsv" thru {
      if "$1" != "#" then {
-        next umeta at $3,$4
+        next umeta at $3-6,$4
      }
 }
 
 copy "data/search-interest-swedish-moerdarsnigel.tsv" thru {
      if "$1" != "#" then {
-        next meta at $3,$4
+        next meta at $3+6,$4
      }
 }
 
@@ -85,13 +85,13 @@ draw dmeta bullet color "red"
 
 copy "data/search-interest-uk-killer-slug-normalized.tsv" thru {
      if "$1" != "#" then {
-        next umeta at $3,$5
+        next umeta at $3-6,$5
      }
 }
 
 copy "data/search-interest-swedish-moerdarsnigel-normalized.tsv" thru {
      if "$1" != "#" then {
-        next meta at $3,$5
+        next meta at $3+6,$5
      }
 }
 
@@ -159,7 +159,7 @@ copy until "END" thru {next at $1, 65.09 + 0.1661*$1;}
 END
 "\s[-2]r=0.626\s[+2]" ljust at 515,200
 "\s[-2]t=3.592\s[+2]" ljust at 515,195
-"\s[-2]p=0.001823 (two tailed)\s[+2]" ljust at 515,190
+"\s[-2]p=0.001823*** (two tailed)\s[+2]" ljust at 515,190
 
 .G2
 .G1
