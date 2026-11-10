@@ -123,7 +123,7 @@ contain annual means from 1901 onwards:
 * [mean-precipitation-denmark.csv](mean-precipitation-denmark.csv)
 * [mean-precipitation-sweden.csv](mean-precipitation-sweden.csv)
 * [mean-precipitation-uk.csv](mean-precipitation-uk.csv)
-* [mean-temperature-sweden.csv](mean-temperature-sweden.csv) (not yet used)
+* [mean-temperature-sweden.csv](mean-temperature-sweden.csv) 
 
 The script [mean-precipitation.pl](mean-precipitation.pl) combines one
 of the precipitation files with a mean search day file (see
@@ -142,6 +142,15 @@ precipitation data (such as the current year) are left out.
 my $normalized = "mean-search-day-se.tsv";
 my $rain       = "mean-precipitation-sweden.csv";
 ```
+
+Then there is a similar correlation of search interest against
+temperature:
+
+```
+./mean-temperature.pl > correlation-search-temperature.tsv
+```
+
+There are similar hardcoded input file names.
 
 ### Correlation
 
