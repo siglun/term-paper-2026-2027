@@ -142,7 +142,11 @@ label bot "Mean preciptation (mm)" down 1
 draw bul bullet color "black"
 
 copy "data/correlation-search-rain.tsv" thru {
-      next bul at $2,$3
+     if $1==2022 then {
+       "\s[-6]\[bu]  $1\s[+6]" ljust at $2,$3
+     } else {
+       "\s[-6]$1  \[bu]\s[+6]" rjust at $2,$3
+     }
 }
 .G2
 .KE
