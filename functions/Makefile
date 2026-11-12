@@ -43,7 +43,7 @@ clean:
 # chalmers.pdf: chalmers.ms chalmers-01.ms $(OTHERS)
 # language-function.pdf: language-function.ms
 
-language.pdf: language.ms slug-texts.ms $(BIB)/bibliography.i
+language.pdf: language.ms slug-texts-1.ms slug-texts-2.ms berlin.ms $(BIB)/bibliography.i
 
 # Remember
 #

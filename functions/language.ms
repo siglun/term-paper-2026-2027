@@ -74,12 +74,9 @@ Millikan language thought
 .so proper-functions.ms
 .PP
 A biological category is given by its proper function.
-For instance,
-molluscs have a body fluid called \f[I]haemolymph\f[P] which belongs to the same biological category as blood.
-.[
-hemolymph molluscan
-.]
-Together with a two chamber heart haemolymph is distributing oxygene and nutrients through the body of any slug,
-that is its circulatory system.
 .section
-.so slug-texts.ms
+.so slug-texts-1.ms
+.section
+.so slug-texts-2.ms
+.section
+.so berlin.ms
