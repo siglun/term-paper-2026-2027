@@ -16,6 +16,8 @@ but be that as it may.
 .so ../margin-notes.ms
 .MNinit symmetric 3c 4c 1n BrillR 8z 9.6p black ""
 .section
+.so plato.ms
+.section
 .LP
 If we are to believe Amie L. Thomasson,
 then many ontological and metaphysical theories have passed their best-before dates.
