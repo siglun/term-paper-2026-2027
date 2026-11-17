@@ -5,9 +5,9 @@ coord x 2003,2027 y 0.0,100
 label bot "Year" down 1
 label left "Search interest" left 1.2
 
-draw umeta solid color "blue"
+draw umeta solid color "lightblue"
 draw meta solid color "black"
-draw dmeta solid color "red"
+draw dmeta solid color "mistyrose1"
 
 copy "data/search-interest-uk-killer-slug.tsv" thru {
      if "$1" != "#" then {
@@ -40,9 +40,9 @@ coord x 0,366 y 0.0,100
 label bot "Day" down 1
 label left "Search interest" left 1.2
 
-draw umeta bullet color "blue"
+draw umeta bullet color "lightblue"
 draw meta bullet color "black"
-draw dmeta bullet color "red"
+draw dmeta bullet color "mistyrose1"
 
 copy "data/search-interest-uk-killer-slug.tsv" thru {
      if "$1" != "#" then {
@@ -71,9 +71,9 @@ coord x 0,366 y 0.0,1
 label bot "Day" down 1
 label left "Normalized search interest" left 1.2
 
-draw umeta bullet color "blue"
+draw umeta bullet color "lightblue"
 draw meta bullet color "black"
-draw dmeta bullet color "red"
+draw dmeta bullet color "mistyrose1"
 
 copy "data/search-interest-uk-killer-slug-normalized.tsv" thru {
      if "$1" != "#" then {
@@ -101,9 +101,9 @@ coord x 2003,2027 y 100,200
 label bot "Year" down 1
 label left "Mean day of searches" left 1.2
 
-draw umeta solid color "blue"
+draw umeta solid color "lightblue"
 draw meta solid color "black"
-draw dmeta solid color "red"
+draw dmeta solid color "mistyrose1"
 
 copy "data/mean-search-day-uk.tsv" thru {
      if "$1" != "#" then {

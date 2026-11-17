@@ -15,4 +15,7 @@ I was delighted with this cause and it seemed to me good,
 in a way,
 that Mind should be the cause of all.
 I thought that if this were so,
-the directing Mind would direct everything and arrange each thin in the way that was best.
+the directing Mind would direct everything and arrange each thing in the way that was best.
+.[ (
+Plato Phaedo Cooper
+.], Phaedo 97b-99d)
