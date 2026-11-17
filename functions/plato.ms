@@ -19,3 +19,7 @@ the directing Mind would direct everything and arrange each thing in the way tha
 .[ (
 Plato Phaedo Cooper
 .], Phaedo 97b-99d)
+.LP
+This might be one of the earliest formulation of the idea that things are arranged the way they are because it is the result of a process leading to a result which is predictable because it is the \f[I]best\f[P] result.
+However, this begs two questions:
+(i) Who or what is the cause?  (ii) In what respect is the result the best one?
