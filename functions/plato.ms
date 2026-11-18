@@ -26,6 +26,18 @@ However, this begs two questions:
 the Mind?
 (ii) In what respect is the result the best one?
 .PP
+Anaxagoras describes the Mind, the
+.I Nous,
+as the principle that bring order to the cosmic chaos.
+The teleological explanation seems natural to us humans,
+we search for purpose.
+.[
+ Deborah Kelemen 2000
+.]
+.[
+Kodaj defense of teleological intuitions 2023
+.]
+.PP
 Ruth Garrett Millikan is the pioneer in building a modern theory of functions,
 which is built on a solid ground.
 She thinks of functions as things that are somehow designed for a purpose.
