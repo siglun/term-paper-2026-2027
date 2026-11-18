@@ -43,9 +43,11 @@ clean:
 # chalmers.pdf: chalmers.ms chalmers-01.ms $(OTHERS)
 # language-function.pdf: language-function.ms
 
-language.pdf: language.ms slug-texts-1.ms slug-texts-2.ms berlin.ms plato.ms $(BIB)/bibliography.i
+language.pdf: language.ms slug-texts-1.ms slug-texts-2.ms berlin.ms \
+	metaphysics-ontology.ms plato.ms $(BIB)/bibliography.i
 
 # Remember
 #
 # inkscape World_line.svg -o  world_line.eps
 # 
+ 
