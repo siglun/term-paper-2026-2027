@@ -30,19 +30,20 @@ The analysis below is inspired by.
 #
 Reed Stenseth
 .]
+Assume that we have a population with a trait $T$ which correspond to the value of a measure $x$.
+Let the trait $T$ be  evolutionarily stable when $x = x *$.
 .PP
-Assume that we have a population growing according to some law $f$ and that its population changes from $N sub t$ one year to $N sub t+x$ the year after.
+Assume that this the population is growing according to some law $f$ and that its population changes from $N sub t$ one year to $N sub t+x$ the year after.
 .EQ I (1)
 N sub t+1 = N sub t left ( 1 + F( x , N sub t ) right )
 .EN
 Further,
-let $AA$ the dominating genotype in the population,
+let $AA$ the be dominating genotype in the population,
 i.e. its wild type.
-This $A$ gene manifests itself on some trait called $x$.
-In particular, let the $AA$ have the specific value of $x = x *$,
-and that the growth rate is affected by the value of $x$
+Thus, assume that the $AA$ have that specific value of $x = x *$,
+and that the reproductive rate is affected by the value of $x$
 .PP
-Assume that the $A$ gene occasionally mutates $A -> a$ and that the bearers of the allele $a$ ($Aa$) have a phenotype that deviates from $x$.
+Now, further assume that the $A$ gene occasionally mutates $A -> a$ and that the bearers of the allele $a$ ($Aa$) have a phenotype that deviates from $x$.
 Assume that the mutants with genotype ($Aa$) have a modified trait where $x = x hat + delta x$.
 Let the number of wild type individuals ($AA$) be $N sub t$ and mutants ($Aa$) $M sub t$.
 Also, if the frequence of the $a$ allele $q approx M / 2 N$ is small in comparison with that of the $A$ allele which is $p = 1 - q$ and that,
@@ -60,3 +61,18 @@ Given that the mutant is rare ($M sub t $ is close to zero) and $delta x$ is sma
 .EQ I (3)
 F ( x * + delta x , N sub t , 0 ) = diff(F,x) delta x + diff2(F, x) delta x sup 2 + ...
 .EN
+So, since the population is stable and the mutant unable to invade,
+.EQ I (4)
+left {
+lpile {
+{diff(F,x) = 0 }
+above 
+{ "  " }
+above
+{ diff2(F, x) < 0 }
+}
+right ""
+.EN
+are sufficient conditions for that.
+This means that $F$ is at an extreme value with respect to $x$ and because of the second derivative that value must be at a maximum.
+Hence, $x$ has the function to

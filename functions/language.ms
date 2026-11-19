@@ -23,7 +23,17 @@ but be that as it may.
 .PS 4.0c 6.0c
 copy "another-ess-graph.pic"
 .PE
+.QP
+.vs 12
+.ps 10
+Figure 1.
+An illustration of why an evolutionarily stable strategy or trait or property.
+See the main text for discussion.
+.sp
 .KE
+.section
+.so millikan.ms
+.so proper-functions.ms
 .section
 .so metaphysics-ontology.ms
 .section

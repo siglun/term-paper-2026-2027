@@ -44,8 +44,8 @@ clean:
 # language-function.pdf: language-function.ms
 
 language.pdf: language.ms slug-texts-1.ms slug-texts-2.ms berlin.ms \
-	metaphysics-ontology.ms plato.ms ess.pic \
-	evolutionarily-stable-strategy.ms another-ess-graph.pic $(BIB)/bibliography.i
+	metaphysics-ontology.ms plato.ms evolutionarily-stable-strategy.ms \
+	another-ess-graph.pic $(BIB)/bibliography.i
 
 # Remember
 #
