@@ -17,8 +17,6 @@ but be that as it may.
 .MNinit symmetric 3c 4c 1n BrillR 8z 9.6p black ""
 .section
 .so plato.ms
-.section
-.so evolutionarily-stable-strategy.ms
 .KF
 .PS 4.0c 6.0c
 copy "another-ess-graph.pic"
@@ -32,8 +30,12 @@ See the main text for discussion.
 .sp
 .KE
 .section
+.so evolutionarily-stable-strategy.ms
+.section
 .so millikan.ms
+.KF
 .so proper-functions.ms
+.KE
 .section
 .so metaphysics-ontology.ms
 .section

@@ -1,4 +1,3 @@
-.KF
 .PS 5c 14c
 .ps 9
 .vs 11
@@ -31,4 +30,3 @@ Millikan  language thought
 .]
 A proper function can be either direct or derived.
 .sp
-.KE
