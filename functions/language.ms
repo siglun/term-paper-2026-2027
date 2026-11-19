@@ -18,6 +18,8 @@ but be that as it may.
 .section
 .so plato.ms
 .section
+.so evolutionarily-stable-strategy.ms
+.section
 .so metaphysics-ontology.ms
 .section
 .so slug-texts-1.ms
