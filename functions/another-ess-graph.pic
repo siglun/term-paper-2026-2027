@@ -1,0 +1,12 @@
+.PS
+scale=2.54
+arrowwid=0.08
+arrowht=0.1
+YAXIS: arrow up 4
+XAXIS: arrow right 5 from YAXIS.c
+CORNERS: box invis wid 4 with .n at XAXIS.c
+FCURVE: spline from CORNERS.sw to CORNERS.n + (0, CORNERS.ht/3) to CORNERS.se
+"$x$" at XAXIS.e + (0,0.2) ljust
+"$x*$" at CORNERS.n + (0,0.2)
+"$F(x,N,0) ^ $" at YAXIS.n + (-0.1,0.1)  rjust
+.PE

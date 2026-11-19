@@ -23,6 +23,7 @@
 .char \[vc] \[u010D]
 .EQ
 define diff X { roman d $1 } over { roman d $2 } X
+define diff2 X { roman d sup 2 $1 } over { roman d $2 sup 2 } X
 delim $$
 .EN
 .R1

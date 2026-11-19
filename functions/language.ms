@@ -19,6 +19,11 @@ but be that as it may.
 .so plato.ms
 .section
 .so evolutionarily-stable-strategy.ms
+.KF
+.PS 4.0c 6.0c
+copy "another-ess-graph.pic"
+.PE
+.KE
 .section
 .so metaphysics-ontology.ms
 .section
