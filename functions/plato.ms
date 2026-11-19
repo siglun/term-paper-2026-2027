@@ -29,6 +29,7 @@ the Mind?
 Anaxagoras describes the Mind, the
 .I Nous,
 as the principle that bring order to the cosmic chaos.
+Socrates somehow thinks that the good has an existence of its own and that it is the good rather than Nous that makes things best.
 The teleological explanation seems natural to us humans,
 we search for purpose.
 .[
