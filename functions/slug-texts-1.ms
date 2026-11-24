@@ -1,25 +1,4 @@
-.LP
-For instance,
-molluscs have a body fluid called \f[I]haemolymph\f[P] which belongs to the same biological category as blood.
-.[
-hemolymph molluscan
-.]
-Together with a two chamber heart haemolymph is distributing oxygene and nutrients through the body of any slug,
-that is its circulatory system.
-That system has the function to provide energy, nutrients and oxygene to the body.
-.LP
-having a cryoprotectant in ones body tissue is similar to have antifreeze in ones coolant
-.LP
-1. The Glucose Accumulation Disparity
 
-Both species trigger glycogen-to-glucose conversion dynamically upon freezing, but their capacity to ramp up glucose levels differs.
-• Arion rufus and Arion ater complexes demonstrate a more pronounced hyperglycemic response to freezing than Arion vulgaris.
-• Arion vulgaris accumulates glucose upon freezing, but it does so less efficiently and in lower concentrations compared to its cold-adapted northern relatives. Because of this lower peak concentration, it gets less colligative protection from its sugar reserves.
-
-2. Lower Freezing Survival Limits
-
-Because Arion vulgaris originated from more temperate regions of Europe, its internal machinery is less equipped for prolonged deep freezes.
-• Survival window: While both species can survive short-term freezing (such as 2 days at a mild -1°C), Arion ater handles prolonged or slightly lower temperatures better. In contrast, Arion vulgaris experiences much higher mortality rates if tissue ice content becomes too high or if temperatures drop to even -2°C for an extended period.
 
 .ig
 "En sökning i ordforskningsplattformen Korp (Borin et al., 2025) gjordes den 26 oktober 2026 på sökfrågan [lemma = "kalla handen"] i delkorpusen Moderna tidningstexter. Sökningen resulterade i..."
