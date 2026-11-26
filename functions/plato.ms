@@ -42,11 +42,14 @@ Socrates,
 on the other hand,
 somehow thinks that the good has an existence of its own and that it is the good rather than Nous that makes things best.
 .PP
-The teleological explanation seems natural to us humans,
-we search for purpose.
+The teleological explanation seems natural to us humans.
+We do search for purpose.
+Teleology suits our need for distinguishing between animals whose purpose is to be eaten from animals that might eat us.
+Even young children accept teleology.
 .[
  Deborah Kelemen 2000
 .]
+And so does students of many academic disciplines, including physics.
 .[
 Kodaj defense of teleological intuitions 2023
 .]
