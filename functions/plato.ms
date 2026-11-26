@@ -32,7 +32,9 @@ the
 one?
 .PP
 The three questions are seeking answers for what (i) entity is affected by (ii) a specific cause (iii) a result which is in some respect optimal.
-The answers could be: A variable (i), some natural law  (ii)  and a steady-state or an equilibrium condition leading to a seemingly purposeful result.
+The answers could be: A variable (i), some natural law defining some
+.I function
+(ii)  and a steady-state or an equilibrium condition leading to a seemingly purposeful result.
 .PP
 From Plato's description it is clear that Anaxagoras describes the Mind, the
 .I Nous,
@@ -49,7 +51,7 @@ Even young children accept teleology.
 .[
  Deborah Kelemen 2000
 .]
-And so does students of many academic disciplines, including physics.
+So do scholars of many academic disciplines, including physics.
 .[
 Kodaj defense of teleological intuitions 2023
 .]
