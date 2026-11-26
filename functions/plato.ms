@@ -37,8 +37,10 @@ The answers could be: A variable (i), some natural law  (ii)  and a steady-state
 From Plato's description it is clear that Anaxagoras describes the Mind, the
 .I Nous,
 as the principle that bring order to the cosmic chaos.
-Hence, the thing
-Socrates somehow thinks that the good has an existence of its own and that it is the good rather than Nous that makes things best.
+Hence, the thing seems to be cosmos.
+Socrates,
+on the other hand,
+somehow thinks that the good has an existence of its own and that it is the good rather than Nous that makes things best.
 .PP
 The teleological explanation seems natural to us humans,
 we search for purpose.
