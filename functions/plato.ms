@@ -31,10 +31,15 @@ the
 .I best
 one?
 .PP
-Anaxagoras describes the Mind, the
+The three questions are seeking answers for what (i) entity is affected by (ii) a specific cause (iii) a result which is in some respect optimal.
+The answers could be: A variable (i), some natural law  (ii)  and a steady-state or an equilibrium condition leading to a seemingly purposeful result.
+.PP
+From Plato's description it is clear that Anaxagoras describes the Mind, the
 .I Nous,
 as the principle that bring order to the cosmic chaos.
+Hence, the thing
 Socrates somehow thinks that the good has an existence of its own and that it is the good rather than Nous that makes things best.
+.PP
 The teleological explanation seems natural to us humans,
 we search for purpose.
 .[
