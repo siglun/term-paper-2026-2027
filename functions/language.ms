@@ -17,6 +17,8 @@ but be that as it may.
 .MNinit symmetric 3c 4c 1n BrillR 8z 9.6p black ""
 .section
 .so plato.ms
+.section
+.so glycogen.ms
 .KF
 .PS 4.0c 6.0c
 copy "another-ess-graph.pic"

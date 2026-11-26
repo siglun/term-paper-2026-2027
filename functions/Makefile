@@ -45,7 +45,7 @@ clean:
 
 language.pdf: language.ms slug-texts-1.ms slug-texts-2.ms berlin.ms \
 	metaphysics-ontology.ms plato.ms evolutionarily-stable-strategy.ms \
-	another-ess-graph.pic ${OTHERS}  $(BIB)/bibliography.i
+	another-ess-graph.pic glycogen.ms ${OTHERS}  $(BIB)/bibliography.i
 
 # Remember
 #
