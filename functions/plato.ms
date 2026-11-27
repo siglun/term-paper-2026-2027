@@ -62,7 +62,7 @@ Kodaj defense of teleological intuitions 2023
 .PP
 We are observing the world.
 Trying to understand it,
-and what we perceive affecs our wellbeing.
+and what we perceive affects our wellbeing.
 Or as Albert Camus beautifully describes it:
 .QP
 .vs 12
