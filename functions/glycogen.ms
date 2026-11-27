@@ -6,7 +6,11 @@ Millikan 1984
 .],
 who claim that a thing has a proper function which puts it into some biological category.
 That is,
-the heart is the thing (Q1) that pumps blood (Q3). 
+the heart is the thing (Q1) that pumps blood (Q3).
+Each slug copied the blueprint of its heart from its parents.
+The blueprint arose through the operation of natural selection.
+This is the answer of Q2.
+.PP
 For instance,
 most molluscs have a body fluid called \f[I]haemolymph\f[P].
 .[
