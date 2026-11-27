@@ -22,20 +22,19 @@ Plato Phaedo Cooper
 .LP
 This might be one of the very earliest formulations of the idea that things are arranged the way they are because they are due to processes leading to predictable outcomes that are the \f[I]best\f[P] results.
 However, this begs three questions:
-.IP (i) 5n
+.IP Q1 4.5n
 What is a
 .I thing ?
-.IP (ii) 5n
-Who or what is the cause,
-the
-.I Mind ?
-.IP (iii) 5n
+.IP Q2 4.5n
+Who or what is the
+.I cause ?
+.IP Q3 4.5n
 In what respect is the result the
 .I best
 one?
 .PP
-The three questions are seeking answers for what entity there is (i) which is affected by a specific cause (ii)  making the entity optimal or making it performing some function that lead to a good result.
-One such answer could be: A variable (i), some natural law determining its development (ii) and a steady-state or an equilibrium condition (iii) leading to a seemingly purposeful result.
+The three questions are seeking answers for what entity there is (Q1) which is affected by a specific cause (Q2)  making the entity optimal or making it performing some function that lead to a good result.
+One set such answers could be: A variable (Q1), some natural law determining its development (Q2) and a steady-state or an equilibrium condition (Q3) leading to a seemingly purposeful result.
 .PP
 From Plato's description it is clear that Anaxagoras describes the Mind, the
 .I Nous,
