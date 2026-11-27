@@ -1,18 +1,21 @@
-\[oq]That a heart is a heart has a something to do with with pumping blood.\[cq] is the opening line of
+\[oq]That a heart is a heart has a something to do with with pumping blood.\[cq]
+This is is the opening line of
 .[ 
 #
 Millikan 1984
 .],
 who claim that a thing has a proper function which puts it into some biological category.
 That is,
-the heart is a thing (i) that pumps blood (ii). 
+the heart is the thing (Q1) that pumps blood (Q3). 
 For instance,
-molluscs have a body fluid called \f[I]haemolymph\f[P].
+most molluscs have a body fluid called \f[I]haemolymph\f[P].
 .[
 hemolymph molluscan
 .]
-A slugs have a two chamber hearts pumping haemolymph containing oxygene and nutrients through its body.
-It has  circulatory systems just as we mammals.
+It is just as haemoglobin,
+but the iron atom in the center is replaced by copper.
+Slugs have two chamber hearts pumping haemolymph containing oxygene and nutrients through its body.
+That is, it has  circulatory systems just as we mammals.
 .PP
 Slugs store energy as glycogen and hibernate as juveniles and sometimes as eggs.
 To survive the winter they catabolise to sugar,
@@ -24,3 +27,5 @@ The Spanish slug \f[I]Arion vulgaris\f[P] is much less capable releasing glucose
 .[
 Slotsbo slugs 2012
 .]
+.PP
+

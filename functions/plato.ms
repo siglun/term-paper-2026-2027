@@ -60,5 +60,25 @@ So do scholars of many academic disciplines, including physics.
 Kodaj defense of teleological intuitions 2023
 .]
 .PP
+We are observing the world.
+Trying to understand it,
+and what we perceive affecs our wellbeing.
+Or as Albert Camus beautifully describes it:
+.QP
+.vs 12
+.ps 10
+A world that cabn be explained evenh with bad reasons is a familiar world.
+But, on the other hand,
+in a universe suddenly divested of illusions and lights,
+man feels an alien,
+a stranger.
+His exile is without remedy since he is deprived of the memory of a lost home or the hope of a promised land.
+This divorce between man and his life,
+the actor and hissetting,
+is properly the feeling of absurdity.
+.[
+Camus Sisyphus
+.]
+.PP
 This paper is an attempt to study the three questions,
 and in particular what kind of natural laws that can give rise to explanatory purposes.
